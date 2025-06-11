@@ -116,8 +116,10 @@ Licensed under the [MIT License](LICENSE.md).
 ## Acknowledgements / *Teşekkürler* (Optional)
 
 Thanks to:  
--Keyvan Arasteh(keyvan.arasteh@istinye.edu.tr)
--İstinye Üniversity
+- Keyvan Arasteh(keyvan.arasteh@istinye.edu.tr)
+
+- İstinye Üniversity
+
 *Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
 ---

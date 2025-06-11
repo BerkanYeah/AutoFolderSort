@@ -79,18 +79,14 @@ Run the project:
 *Projeyi çalıştırın:*
 
 ```bash
-python main.py --input your_file.pcap --output results.txt
+python app.py
 ```
 
 **Steps**:  
-1. Prepare input data (*explain data needed*).  
-2. Run the script with arguments (*explain key arguments*).  
-3. Check output (*explain where to find results*).  
+1. Klasör yolunu girin.
+2. Script uzantıya göre dosyaları Documents/,Images/ gibi klasöre taşır.
+3. Sonuç terminalde Gözükür
 
-*Adımlar*:  
-1. Giriş verilerini hazırlayın (*ne tür verilere ihtiyaç duyulduğunu açıklayın*).  
-2. Betiği argümanlarla çalıştırın (*önemli argümanları açıklayın*).  
-3. Çıktıyı kontrol edin (*sonuçları nerede bulacağınızı açıklayın*).
 
 ---
 
@@ -98,7 +94,7 @@ python main.py --input your_file.pcap --output results.txt
 
 We welcome contributions! To help:  
 1. Fork the repository.  
-2. Clone your fork (`git clone git@github.com:YOUR_USERNAME/YOUR_REPO.git`).  
+2. Clone your fork (`git clone git@github.com:/BerkanYeah/AutoFolderSort.git`).  
 3. Create a branch (`git checkout -b feature/your-feature`).  
 4. Commit changes with clear messages.  
 5. Push to your fork (`git push origin feature/your-feature`).  
@@ -120,20 +116,17 @@ Licensed under the [MIT License](LICENSE.md).
 ## Acknowledgements / *Teşekkürler* (Optional)
 
 Thanks to:  
-- Awesome Library: For enabling X.  
-- Inspiration Source.  
-- Special thanks to...  
-
+-Keyvan Arasteh(keyvan.arasteh@istinye.edu.tr)
+-İstinye Üniversity
 *Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
 ---
 
 ## Contact / *İletişim* (Optional)
 
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
+Project Maintainer: [Berkan/İstinye Üniversitesi] - [2320191060@stu.istinye.edu.tr]  
 Found a bug? Open an issue.  
-
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+Hata bulursanız bir sorun bildirin.*
 
 ---
 

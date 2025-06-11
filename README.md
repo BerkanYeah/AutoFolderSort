@@ -8,10 +8,8 @@
 </div>
 
 # Project Name
-*Proje Adı*
-
-A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+AutoFolderSort – Dosya Türlerine Göre Otomatik Sınıflandırma
+This Python-based automation tool automatically organizes files in a folder by their extension. It's a lightweight CLI utility ideal for cleaning up cluttered directories.
 
 ---
 

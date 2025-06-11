@@ -15,25 +15,21 @@ This Python-based automation tool automatically organizes files in a folder by t
 
 ## Features / *Özellikler*
 
-- **Feature 1:** Description of the feature.  
-  *Özellik 1: Özelliğin açıklaması.*
-- **Feature 2:** Another cool thing it does.  
-  *Özellik 2: Yaptığı başka bir harika şey.*
-- **Feature 3:** One more for good measure.  
-  *Özellik 3: Ve bir tane daha.*
-- Add more as they develop.  
-  *Geliştikçe daha fazla ekleyin.*
+*Feature 1:* Automatically detects file types by extension  
+*Özellik 1:* Dosya uzantılarını algılayarak otomatik klasörleme yapar
+
+*Feature 2:* Creates target folders if they don’t exist  
+*Özellik 2:* Hedef klasörler yoksa otomatik olarak oluşturur
+
+*Feature 3:* Supports all major formats (.pdf, .jpg, .docx, .py, .zip, etc.)  
+*Özellik 3:* Yaygın tüm dosya türlerini destekler
+
 
 ---
 
 ## Team / *Ekip*
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
+-2320191060 Berkan : Geliştirici ve Dökümantasyon.
 
 ---
 
@@ -46,11 +42,13 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 ## Research / *Araştırmalar*
 
-| Topic / *Başlık*        | Link                                    | Description / *Açıklama*                        |
-|-------------------------|-----------------------------------------|------------------------------------------------|
-| Aircrack Deep Dive      | [researchs/aircrack.md](researchs/aircrack.md) | In-depth analysis of Aircrack-ng suite. / *Aircrack-ng paketinin derinlemesine analizi.* |
-| Example Research Topic  | [researchs/your-research-file.md](researchs/your-research-file.md) | Brief overview of this research. / *Bu araştırmanın kısa bir özeti.* |
-| Add More Research       | *Link to your other research files*     | *Description of the research*                  |
+| Topic / Başlık                                 | Link                                | Description / Açıklama                                          |
+|------------------------------------------------|-------------------------------------|------------------------------------------------------------------|
+| Automation Trends 2025                         | researchs/automation_trends.md      | 2025 yılı otomasyon trendlerinin kısa analizi                   |
+| Cron-based File Schedulers                     | researchs/cron_schedulers.md        | Zamanlayıcı tabanlı dosya otomasyon sistemleri                  |
+| Python shutil vs os                            | researchs/shutil_vs_os.md           | Dosya işlemleri için iki temel modülün karşılaştırması          |
+| Folder Sorting with AI                         | researchs/ai_classification.md      | Yapay zekayla içerik bazlı dosya ayırma araştırması             |
+
 
 ---
 
@@ -58,8 +56,8 @@ See our plans in [ROADMAP.md](ROADMAP.md).
 
 1. **Clone the Repository / *Depoyu Klonlayın***:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/BerkanYeah/AutoFolderSort.git
+   cd AutoFolderSort
    ```
 
 2. **Set Up Virtual Environment / *Sanal Ortam Kurulumu*** (Recommended):  
